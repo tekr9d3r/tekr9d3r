@@ -4,15 +4,17 @@
 
 Claude • Codex • Apps • DApps • Web3 • Smart Contracts • AI Agents  
 
-Ex-Founder & CEO of a coding school  
-→ 10,000+ students  
-→ 13 markets  
-→ Successful exit  
-
+Builder of many things
 Web3 contributor to multiple projects  
 Active delegate in the Arbitrum DAO  
 Vibe coder  
 Building AI agents  
+
+Ex
+Founder & CEO of a coding school  
+→ 10,000+ students  
+→ 13 markets  
+→ Exit  
 
 ---
 
