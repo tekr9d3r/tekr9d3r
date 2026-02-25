@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Tekrox 👋
 
-<!--
-**tekr9d3r/tekr9d3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Europe | 🤖 Builder | 🚀 Entrepreneur  
 
-Here are some ideas to get you started:
+Claude • Codex • Apps • DApps • Web3 • Smart Contracts • AI Agents  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ex-Founder & CEO of a coding school  
+→ 10,000+ students  
+→ 13 markets  
+→ Successful exit  
+
+Web3 contributor to multiple projects  
+Active delegate in the Arbitrum DAO  
+Vibe coder  
+Building AI agents  
+
+---
+
+## Current Projects
+
+📸 **[Snap'n Invest](https://github.com/tekr9d3r/SnapnInvest)**  
+Snap real-world products and instantly invest in tokenized stocks on Robinhood Chain.
+
+💶 **[Eurooo.xyz](https://github.com/tekr9d3r/eurooo.xyz)**  
+Dashboard for tracking and accessing euro stablecoin yield.
+
+🪙 **[Coin Collector](https://farcaster.xyz/miniapps/uCaPgu_sM0Ef/coin-collector)**  
+Collect tokens to mint a special NFT on Farcaster.
+
+🔵 **[ARB Yield](https://farcaster.xyz/miniapps/PMTl3LJOZDLZ/arb-yield)**  
+Stake funds on Aave to reveal an image.
+
+🍻 **[Who's Buying?](https://farcaster.xyz/miniapps/oDa3YITFYi5g/whos-buying)**  
+A simple mini app that helps you decide who buys the next round of beer.
