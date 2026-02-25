@@ -3,9 +3,9 @@
 📍 Europe | 🤖 Builder | 🚀 Entrepreneur  
 
 Claude • Codex • Apps • DApps • Web3 • Smart Contracts • AI Agents  
+---
 
-Builder of many things
-Web3 contributor to multiple projects  
+Builder of many things**  
 Active delegate in the Arbitrum DAO  
 Vibe coder  
 Building AI agents  
