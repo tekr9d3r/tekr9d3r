@@ -20,7 +20,7 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
-🤖 **[PocketChange AI Agent](https://pocket-change-landing.vercel.app/)**  
+🤖 **[PocketChange AI Agent](https://github.com/tekr9d3r/pocket-change-agent)**  
 PocketChange turns idle ETH in your agent's wallets into staking yield.
 
 📸 **[Snap'n Invest](https://github.com/tekr9d3r/SnapnInvest)**  
