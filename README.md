@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+🤖 **[PocketChange AI Agent](https://pocket-change-landing.vercel.app/)**  
+PocketChange turns idle ETH in your agent's wallets into staking yield
+
 📸 **[Snap'n Invest](https://github.com/tekr9d3r/SnapnInvest)**  
 Snap real-world products and instantly invest in tokenized stocks on Robinhood Chain.
 
