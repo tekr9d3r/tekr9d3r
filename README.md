@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+🤖 **[Skill.md Archive](https://github.com/tekr9d3r/skill-archive)**  
+My free collection of skill files you can re-use and share with your AI tools.
+
 🤖 **[PocketChange AI Agent](https://github.com/tekr9d3r/pocket-change-agent)**  
 PocketChange turns idle ETH in your agent's wallets into staking yield.
 
