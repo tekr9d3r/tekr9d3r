@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+🏖️ **[TekroxGPT](https://github.com/tekr9d3r/tekroxgpt)**  
+A personal AI chatbot built for ETHCC Cannes 2026 networking.
+
 📥 **[Skill.md Archive](https://github.com/tekr9d3r/skill-archive)**  
 My free collection of skill files you can re-use and share with your AI tools.
 
