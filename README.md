@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+🌉 🏖️ **[Eurooo Earn](https://github.com/tekr9d3r/eurooo.xyz/blob/main/docs/earn-technical.md)**  
+One-click cross-chain deposits into EUR stablecoin vaults. (hackathon by LI.FI)
+
 🏖️ **[TekroxGPT](https://github.com/tekr9d3r/tekroxgpt)**  
 A personal AI chatbot built for ETHCC Cannes 2026 networking.
 
