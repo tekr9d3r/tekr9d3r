@@ -20,7 +20,7 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
-🌉 **[Robo Lab](https://github.com/tekr9d3r/robo-lab)**  
+🔬 **[Robo Lab](https://github.com/tekr9d3r/robo-lab)**  
 Claude AI controls a physics-driven robot arm via natural-language commands in the browser.
 
 🌉 **[Eurooo Earn](https://github.com/tekr9d3r/eurooo.xyz/blob/main/docs/earn-technical.md)**  
