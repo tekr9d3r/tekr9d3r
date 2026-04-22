@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+🎮 **[Sucker](https://github.com/tekr9d3r/sucker)**  
+First person robo vacuum simulator. Browser game, no install needed.
+
 🔬 **[Robo Lab](https://github.com/tekr9d3r/robo-lab)**  
 Claude AI controls a physics-driven robot arm via natural-language commands in the browser.
 
