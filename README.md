@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+🎮 **[May the Force - Farcaster Snap](https://github.com/tekr9d3r/may-the-force)**  
+Force battle between the Light and the Dark Side voting. (Farcone Rome Snapathlon, 300+ users in a day)
+
 🎮 **[Sucker](https://github.com/tekr9d3r/sucker)**  
 First person robo vacuum simulator. Browser game, no install needed. (competition Vibe Jam 2026)
 
