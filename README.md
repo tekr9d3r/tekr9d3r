@@ -20,6 +20,12 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+💰 **[Yield](https://github.com/tekr9d3r/yield-gnosis-mini-app)**  
+Mini app to easly earn yield on your EURe and USDC.e via Aave v3 on Gnosis app.
+
+💬 **[Trivia Circles](https://github.com/tekr9d3r/trivia-circles)**  
+On-chain trivia mini app for the Gnosis app.
+
 🎮 **[May the Force - Farcaster Snap](https://github.com/tekr9d3r/may-the-force)**  
 Force battle between the Light and the Dark Side voting. (Farcone Rome Snapathlon, 300+ users in a day)
 
