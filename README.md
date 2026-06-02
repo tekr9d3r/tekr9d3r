@@ -20,7 +20,7 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
-💰 **[Yield](https://github.com/tekr9d3r/yield-gnosis-mini-app)**  
+💰 **[Yield](https://github.com/tekr9d3r/yield-gnosis-mini-app)**  (1st 🏆 place, Garage hackathon Cycle 2)
 Mini app to easly earn yield on your EURe and USDC.e via Aave v3 on Gnosis app.
 
 💬 **[Trivia Circles](https://github.com/tekr9d3r/trivia-circles)**  
