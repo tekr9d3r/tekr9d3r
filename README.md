@@ -47,8 +47,8 @@ My free collection of skill files you can re-use and share with your AI tools.
 🤖 **[PocketChange AI Agent](https://github.com/tekr9d3r/pocket-change-agent)**  
 PocketChange turns idle ETH in your agent's wallets into staking yield.
 
-📸 **[Snap'n Invest](https://github.com/tekr9d3r/SnapnInvest)**  
-Snap real-world products and instantly invest in tokenized stocks on Robinhood Chain.
+📸 **[Fara](https://github.com/tekr9d3r/Fara)**  
+Fara turns the real world into a stock market game on Robinhood Chain.
 
 💶 **[Eurooo.xyz](https://github.com/tekr9d3r/eurooo.xyz)**  
 Dashboard for tracking and accessing euro stablecoin yield.
