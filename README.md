@@ -20,6 +20,12 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+📸 **[Fara](https://github.com/tekr9d3r/Fara)**  
+Fara turns the real world into a stock market game on Robinhood Chain.
+
+💶 **[Eurooo.xyz](https://github.com/tekr9d3r/eurooo.xyz)**  
+Dashboard for tracking and accessing euro stablecoin yield.
+
 💰 **[Yield](https://github.com/tekr9d3r/yield-gnosis-mini-app)**  
 Mini app to easly earn yield on your EURe and USDC.e via Aave v3 on Gnosis app. (won 1st 🏆 place, Garage hackathon Cycle 2)
 
@@ -46,12 +52,6 @@ My free collection of skill files you can re-use and share with your AI tools.
 
 🤖 **[PocketChange AI Agent](https://github.com/tekr9d3r/pocket-change-agent)**  
 PocketChange turns idle ETH in your agent's wallets into staking yield.
-
-📸 **[Fara](https://github.com/tekr9d3r/Fara)**  
-Fara turns the real world into a stock market game on Robinhood Chain.
-
-💶 **[Eurooo.xyz](https://github.com/tekr9d3r/eurooo.xyz)**  
-Dashboard for tracking and accessing euro stablecoin yield.
 
 🪙 **[Coin Collector](https://farcaster.xyz/miniapps/uCaPgu_sM0Ef/coin-collector)**  
 Collect tokens to mint a special NFT on Farcaster.
