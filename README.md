@@ -29,6 +29,9 @@ Dashboard for tracking and accessing euro stablecoin yield.
 💰 **[Yield](https://github.com/tekr9d3r/yield-gnosis-mini-app)**  
 Mini app to easly earn yield on your EURe and USDC.e via Aave v3 on Gnosis app. (1st 🏆 place, best Mini App at Gnosis Garage hackathon)
 
+🏁 **[Ghost Rally](https://github.com/tekr9d3r/ghost-rally)**  
+Ghost-racing game built into Reddit posts. (Devpost Hackathon, July 26)
+
 🍔 **[Fatty](https://github.com/tekr9d3r/fatty)**  
 AI agent for calorie tracking via Telegram.
 
