@@ -32,6 +32,9 @@ Mini app to easly earn yield on your EURe and USDC.e via Aave v3 on Gnosis app. 
 🏁 **[Ghost Rally](https://github.com/tekr9d3r/ghost-rally)**  
 Ghost-racing game built into Reddit posts. (Devpost Hackathon, July 26)
 
+🏁 **[Cat & Mouse Garmin App](https://github.com/tekr9d3r/CatAndMouse)**  
+Garmin running game for interval training.
+
 🍔 **[Fatty](https://github.com/tekr9d3r/fatty)**  
 AI agent for calorie tracking via Telegram.
 
