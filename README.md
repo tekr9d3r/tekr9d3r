@@ -35,6 +35,9 @@ Ghost-racing game built into Reddit posts. (Devpost Hackathon, July 26)
 🐱🐭 **[Cat & Mouse Garmin App](https://github.com/tekr9d3r/CatAndMouse)**  
 Garmin running game for interval training.
 
+👟 **[Naked Run App](https://github.com/tekr9d3r/naked-run)**  
+A Garmin running app that tracks everything and shows you nothing until you're done.
+
 🍔 **[Fatty](https://github.com/tekr9d3r/fatty)**  
 AI agent for calorie tracking via Telegram.
 
