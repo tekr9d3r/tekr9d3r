@@ -20,7 +20,7 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
-📸 **[StockAPY.xyz](https://github.com/tekr9d3r/stockapy)**  
+📈 **[StockAPY.xyz](https://github.com/tekr9d3r/stockapy)**  
 Yield checker for tokenized stocks.
 
 📸 **[Fara](https://github.com/tekr9d3r/Fara)**  
