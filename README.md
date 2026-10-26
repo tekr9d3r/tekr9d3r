@@ -20,6 +20,9 @@ Founder & CEO of a coding school
 
 ## Current Projects
 
+📸 **[StockAPY.xyz](https://github.com/tekr9d3r/stockapy)**  
+Yield checker for tokenized stocks.
+
 📸 **[Fara](https://github.com/tekr9d3r/Fara)**  
 Fara turns the real world into a stock market game on Robinhood Chain.
 
